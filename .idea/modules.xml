@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/310-design-patterns.iml" filepath="$PROJECT_DIR$/310-design-patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CarDecorator/CarDecorator.iml" filepath="$PROJECT_DIR$/CarDecorator/CarDecorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EventLogger/EventLogger.iml" filepath="$PROJECT_DIR$/EventLogger/EventLogger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MicrowaveState/MicrowaveState.iml" filepath="$PROJECT_DIR$/MicrowaveState/MicrowaveState.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PaymentStrategy/PaymentStrategy.iml" filepath="$PROJECT_DIR$/PaymentStrategy/PaymentStrategy.iml" />
+    </modules>
+  </component>
+</project>
