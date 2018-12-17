@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/EventLogger/EventLogger.iml" filepath="$PROJECT_DIR$/EventLogger/EventLogger.iml" />
       <module fileurl="file://$PROJECT_DIR$/MicrowaveState/MicrowaveState.iml" filepath="$PROJECT_DIR$/MicrowaveState/MicrowaveState.iml" />
       <module fileurl="file://$PROJECT_DIR$/PaymentStrategy/PaymentStrategy.iml" filepath="$PROJECT_DIR$/PaymentStrategy/PaymentStrategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShoppingCart/ShoppingCart.iml" filepath="$PROJECT_DIR$/ShoppingCart/ShoppingCart.iml" />
     </modules>
   </component>
 </project>
