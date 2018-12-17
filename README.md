@@ -8,3 +8,4 @@ This repository contains very simple projects which demonstrate some of the desi
 * EventLogger: Singleton
 * PaymentStrategy: Strategy
 * MicrowaveState: State
+* ShoppingCart: Visitor
